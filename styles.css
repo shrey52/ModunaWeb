@@ -1,0 +1,28 @@
+.my-nav{
+    z-index: 999;
+    position: absolute;
+    width: 100%;
+    background: none;
+    border: 0;
+    border-radius: 0;
+    margin-top: 0%;
+}
+
+.navbar-toggler{
+    margin-left: 50%;
+}
+
+.externcontainer{
+    padding-left: 25%;
+    width:100%
+}
+
+.my-carousel{
+    position:absolute;
+    top: 0;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+  filter: invert(1);
+}
